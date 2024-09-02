@@ -1,4 +1,4 @@
-#---- Finger Training Timer -----#
+#---- Interval Training Timer -----#
 
 import winsound
 import time
